@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-version: "1.1.0"
+version: "1.2.0"
 effective_date: 2026-02-16
 last_updated: 2026-02-16
 company: "Baton Software Limited (Company No. 16657849)"
