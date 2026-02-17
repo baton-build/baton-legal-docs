@@ -1,12 +1,12 @@
 ---
 title: "Privacy Policy"
-version: "1.2.0"
-effective_date: 2026-02-16
-last_updated: 2026-02-16
+version: "1.0.3"
+effective_date: 2025-10-25
+last_updated: 2026-02-17
 company: "Baton Software Limited (Company No. 16657849)"
 jurisdiction: "England & Wales"
-canonical_url: "https://baton.build/legal?doc=privacy-policy"
-contact: "privacy@baton.build"
+canonical_url: "https://baton.build/legal?doc=privacy"
+contact: "info@baton.build"
 document_type: privacy_policy
 ---
 
@@ -25,8 +25,6 @@ Registered office: Burgundy House, 24 The Forresters, Harpenden, Hertfordshire, 
 
 We aim to respond within one month and sooner for simple requests.
 
----
-
 ## 3. Personal data we process
 Depending on how you use Baton, we may process:
 
@@ -39,15 +37,12 @@ Depending on how you use Baton, we may process:
 
 Data is typically provided by **client organisations** who authorise and manage access for their workers, or generated through your use of the Service (e.g., logs).
 
----
-
 ## 4. Who is the controller?
 - **Client-provided workforce data.** For personal data about workers that a client organisation inputs into Baton, the **client is the data controller** and Baton acts as a **data processor** on the client’s instructions (see our DPA at https://baton.build/legal?doc=dpa  ).  
 - **Baton-operated data.** Baton is the **controller** for limited activities (e.g., our website analytics, account admin contacts, billing, service communications, product telemetry that does not identify individuals, and security monitoring tied to service integrity).
 
 When Baton acts as **processor**, your rights requests (access, deletion, etc.) should be sent to your **employer/client organisation** (the controller). We will support them under our DPA.
 
----
 
 ## 5. How we use personal data (purposes & legal bases)
 We use personal data to:
@@ -60,8 +55,6 @@ We use personal data to:
 
 **Legal bases:** contractual necessity, legitimate interests (e.g., service security/improvement), legal obligations, and consent where required for optional uses. When we act as **processor**, the client sets the legal basis.
 
----
-
 ## 6. Data sharing
 We share personal data only with:
 - The relevant **client organisation** (your employer or the company that granted your access)  
@@ -70,7 +63,6 @@ We share personal data only with:
 
 We do **not** sell personal data.
 
----
 
 ## 7. How and where your data is stored
 - **MongoDB Atlas (UK/EU)** – primary application database for worker/project data (including qualifications and wage-related inputs).  
@@ -79,7 +71,6 @@ We do **not** sell personal data.
 
 All systems use encryption in transit (TLS) and at rest, role-based access controls, logging, and least-privilege access.
 
----
 
 ## 8. Sub-processors
 We maintain a live list of our authorised sub-processors (with roles, locations, and safeguards) here:  
@@ -87,12 +78,10 @@ We maintain a live list of our authorised sub-processors (with roles, locations,
 
 That page is kept current and forms part of our Data Processing Agreement (DPA). It may include hosting/database providers, authentication services, ticketing/support platforms, and development partners used to deliver the Service.
 
----
 
 ## 9. International transfers
 Where personal data is accessed from or transferred to countries outside the UK/EEA, we implement appropriate safeguards—such as the **UK International Data Transfer Addendum** and/or **EU Standard Contractual Clauses (SCCs)**—and supplementary measures. Support or engineering personnel may remotely access data solely as necessary to provide the Service and subject to these safeguards.
 
----
 
 ## 10. Security
 We operate an information-security programme including:
@@ -104,12 +93,10 @@ We operate an information-security programme including:
 
 No system is perfectly secure, but we work hard to protect your data from unauthorised access, loss, or misuse.
 
----
 
 ## 11. Data retention
 We retain personal data only as long as necessary for the purposes above, to comply with law, or to resolve disputes. When data is no longer needed, we delete or anonymise it. For client data where we are **processor**, retention follows the client’s instructions and our DPA (including post-termination export/deletion windows).
 
----
 
 ## 12. Your rights
 Subject to UK GDPR, you may have rights to:
@@ -124,12 +111,10 @@ Subject to UK GDPR, you may have rights to:
 
 We may need to verify your identity before acting on a request.
 
----
 
 ## 13. Complaints
 You can contact us at **privacy@baton.build**. You also have the right to complain to the **Information Commissioner’s Office (ICO)**: https://www.ico.org.uk.
 
----
 
 ## 14. Changes to this policy
 We may update this Privacy Policy from time to time. We will post updates here with a new “Last updated” date, and we may notify administrators or users for significant changes.
