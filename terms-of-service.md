@@ -1,8 +1,8 @@
 ---
 title: "Terms of Service"
-version: "1.0.0"
-effective_date: 2026-02-17
-last_updated: 2026-02-17
+version: "1.0.1"
+effective_date: 2026-02-25
+last_updated: 2026-02-25
 company: "Baton Software Limited (Company No. 16657849)"
 jurisdiction: "England & Wales"
 canonical_url: "https://baton.build/legal?doc=terms"
@@ -99,6 +99,8 @@ If you are entering into this Agreement on behalf of a company or other legal en
 
 **5.7 Expenses.** Reasonable, pre-approved travel and subsistence expenses incurred in providing agreed professional services will be invoiced at cost.
 
+**5.8 Fixed-Term Commitments.** Where a Fixed Term is agreed in an Order, Client acknowledges that Fees for the entire Fixed Term are contractually committed and payable regardless of usage, suspension, or early termination (except where terminated by Client under Clause 14.2 due to Baton’s uncured material breach)
+
 ---
 
 ## 6. Data Protection
@@ -176,6 +178,16 @@ Where suspension arises due to non-payment of Fees, any specifically agreed pric
 ## 14. Term & Termination
 **14.1 Term.** This Agreement starts on the Effective Date and continues for the Subscription Term specified in the Order. It auto-renews for successive terms unless either Party gives notice of non-renewal at least 30 days before the end of the then-current term (unless otherwise stated in the Order).
 
+**14.1A Fixed-Term / Non-Cancellable Subscriptions**
+Where an Order specifies a fixed multi-year or minimum committed term (a “Fixed Term”):
+
+a. The subscription is non-cancellable by Client for convenience during the Fixed Term.
+b. All Fees for the Fixed Term are fully committed and non-refundable.
+c. If Client terminates early other than under Clause 14.2 (Baton breach), all remaining Fees for the remainder of the Fixed Term become   immediately due and payable.
+d. Baton may invoice the remaining contract value immediately upon such termination.
+e. Suspension or non-use of the Service does not relieve Client of its payment obligations.
+
+
 **14.2 Termination for Cause.** Either Party may terminate immediately on written notice if the other Party materially breaches this Agreement and fails to cure within 30 days after notice, or becomes insolvent.
 
 **14.3 Effect of Termination.** Upon termination: (a) Client must stop using the Service; (b) Baton will disable access; (c) within 30 days, Client may request a copy/export of Client Data; Baton will make standard export tools available. Baton may delete Client Data 60 days after termination, subject to legal retention obligations.
@@ -205,7 +217,7 @@ Neither Party is liable for delay or failure caused by events beyond its reasona
 ## 18. Changes to the Service or Terms
 **18.1 Service Changes.** Baton may improve or modify the Service, including releasing beta or preview features. Beta features are provided **as-is** and may be withdrawn at any time.
 
-**18.2 Terms Updates.** Baton may update these terms. For material updates, Baton will provide notice (e.g., email or in-product). Updated terms take effect on the next renewal or 30 days after notice for monthly plans. If Client does not agree, Client may terminate before the change takes effect with a pro-rata refund of any prepaid Fees for the unused period.
+**18.2 Terms Updates.** Baton may update these terms. For material updates, Baton will provide notice (e.g., email or in-product). Updated terms take effect on the next renewal or 30 days after notice for monthly plans. If Client does not agree, Client may terminate before the change takes effect with a pro-rata refund of any prepaid Fees for the unused period. This right to terminate shall not apply where Client has entered into a Fixed Term commitment under an Order, except where the update materially reduces core functionality or materially increases Fees during the agreed Fixed Term.
 
 ---
 
