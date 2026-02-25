@@ -1,8 +1,8 @@
 ---
 title: "Privacy Policy"
-version: "1.0.3"
-effective_date: 2025-10-25
-last_updated: 2026-02-17
+version: "1.0.4"
+effective_date: 2026-02-25
+last_updated: 2026-02-25
 company: "Baton Software Limited (Company No. 16657849)"
 jurisdiction: "England & Wales"
 canonical_url: "https://baton.build/legal?doc=privacy"
@@ -19,7 +19,7 @@ Baton Software Limited (“**Baton**”, “**we**”, “**us**”, “**our**�
 ## 2. Who we are & how to contact us
 **Controller (for the processing we control—see Section 4):**  
 **Baton Software Limited** (Company No. **16657849**)  
-Registered office: Burgundy House, 24 The Forresters, Harpenden, Hertfordshire, AL5 2FB, United Kingdom
+Second Floor, Peregrine House, Northbridge Road, Berkhamsted, Hertfordshire, HP4 1EH, United Kingdom.
 
 **Privacy contact (data rights & questions):** **privacy@baton.build**
 
