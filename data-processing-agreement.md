@@ -1,8 +1,8 @@
 ---
 title: "Data Processing Agreement"
-version: "1.0.0"
-effective_date: 2025-10-25
-last_updated: 2026-02-17
+version: "1.0.1"
+effective_date: 2026-02-25
+last_updated: 2026-02-25
 company: "Baton Software Limited (Company No. 16657849)"
 jurisdiction: "England & Wales"
 canonical_url: "https://baton.build/legal?doc=dpa"
@@ -137,4 +137,4 @@ Baton’s current list is maintained at **https://baton.build/legal?doc=subproce
 All DPA notices must be sent to **info@baton.build** (required) and may also be sent to the registered office:
 
 Baton Software Limited (Company No. **16657849**)  
-Burgundy House, 24 The Forresters, Harpenden, Hertfordshire, AL5 2FB, United Kingdom.
+Second Floor, Peregrine House, Northbridge Road, Berkhamsted, Hertfordshire, HP4 1EH, United Kingdom.
