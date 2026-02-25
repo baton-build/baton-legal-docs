@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service"
-version: "1.0.1"
+version: "1.0.2"
 effective_date: 2026-02-25
 last_updated: 2026-02-25
 company: "Baton Software Limited (Company No. 16657849)"
@@ -176,16 +176,11 @@ Where suspension arises due to non-payment of Fees, any specifically agreed pric
 ---
 
 ## 14. Term & Termination
-**14.1 Term.** This Agreement starts on the Effective Date and continues for the Subscription Term specified in the Order. It auto-renews for successive terms unless either Party gives notice of non-renewal at least 30 days before the end of the then-current term (unless otherwise stated in the Order).
+**14.1 Term.** This Agreement starts on the Effective Date and continues for the Subscription Term specified in the Order. 
 
-**14.1A Fixed-Term / Non-Cancellable Subscriptions**
-Where an Order specifies a fixed multi-year or minimum committed term (a “Fixed Term”):
+(a) Fixed or Minimum Commitment Terms. Where an Order specifies a fixed multi-year or minimum committed term (a “Fixed Term”), the subscription is non-cancellable by Client for convenience during that Fixed Term. All Fees for the Fixed Term are fully committed and non-refundable. If Client terminates or attempts to terminate early other than under Clause 14.2, the Agreement shall continue for the remainder of the Fixed Term for billing purposes and all remaining Fees shall remain due and payable in accordance with the agreed billing schedule. Suspension or non-use of the Service does not relieve Client of its payment obligations. Fixed Terms will automatically renew for successive periods of the same duration unless either Party gives written notice of non-renewal at least 30 days before the end of the then-current term (unless otherwise stated in the Order).
 
-a. The subscription is non-cancellable by Client for convenience during the Fixed Term.
-b. All Fees for the Fixed Term are fully committed and non-refundable.
-c. If Client terminates early other than under Clause 14.2 (Baton breach), all remaining Fees for the remainder of the Fixed Term become   immediately due and payable.
-d. Baton may invoice the remaining contract value immediately upon such termination.
-e. Suspension or non-use of the Service does not relieve Client of its payment obligations.
+(b) Rolling Monthly Subscriptions. Where the subscription is billed monthly on a rolling basis, either Party may terminate on not less than 30 days’ written notice. Where notice is given part-way through a calendar month, the subscription shall continue until the end of the following full calendar month and Fees shall remain payable up to that date.
 
 
 **14.2 Termination for Cause.** Either Party may terminate immediately on written notice if the other Party materially breaches this Agreement and fails to cure within 30 days after notice, or becomes insolvent.
@@ -227,7 +222,7 @@ Notices must be in writing and sent to the addresses in the Order or via email t
 **Baton Notices:**  
 Email: **info@baton.build** (required for contractual notices)  
 Registered office: Baton Software Limited (Company No. **16657849**),  
-Burgundy House, 24 The Forresters, Harpenden, Hertfordshire, AL5 2FB, United Kingdom.
+Second Floor, Peregrine House, Northbridge Road, Berkhamsted, Hertfordshire, HP4 1EH, United Kingdom.
 
 (For clarity: notices **must** be sent to **info@baton.build**; using the registered office alone is not sufficient.)
 
