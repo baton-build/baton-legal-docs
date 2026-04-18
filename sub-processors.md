@@ -1,8 +1,8 @@
 ---
 title: "Sub Processors"
-version: "1.0.0"
-effective_date: 2025-10-25
-last_updated: 2026-02-17
+version: "1.0.1"
+effective_date: 2026-04-18
+last_updated: 2026-04-18
 company: "Baton Software Limited (Company No. 16657849)"
 jurisdiction: "England & Wales"
 canonical_url: "https://baton.build/legal?=subprocessors"
@@ -24,6 +24,7 @@ Baton engages the following third parties as **sub-processors** to support deliv
 | **Atlassian (Jira Cloud)** | Ticketing for support/bug tracking | EU/UK data residency where available; limited global support access possible | Ticket metadata; **redacted** screenshots/log excerpts (Baton policy prohibits uploading raw datasets or unnecessary personal data) | Access restricted; DP terms in place; SCCs/UK IDTA as applicable; short retention for attachments. |
 | **Google Workspace (Drive/Docs)** | Document intake during onboarding (optional, Client-provided files) | EU/UK data regions and/or Ireland; may involve limited global support access | Files a Client uploads or shares to Baton for ingestion (e.g., spreadsheets with worker details) | Used only when Clients send files to Baton for import; data moved into Baton DB post-ingestion. |
 | **Oskfel Software Limited** | Development & support services for Baton | United Kingdom and remote engineering locations, including outside the UK/EEA | Limited access to Client Data as necessary for support and engineering | Access controlled; SCCs/IDTA and confidentiality obligations in place. |
+| **Google Ireland Limited** | Website analytics (Google Analytics 4) for baton.build marketing site | Ireland (EU); onward transfers to the United States | Pseudonymous cookie identifiers, pages viewed, referrer, approximate location, session data; IP addresses anonymised (`anonymize_ip`) | Loaded only with visitor consent via cookie banner. Transfers to the US under Google's Standard Contractual Clauses. Retention up to 26 months. |
 
 > **Support Data Minimisation.** Baton’s support process prohibits uploading raw datasets or unnecessary personal data into ticketing systems. Where personal data is unavoidable (e.g., reproducing an issue), files are uploaded via Baton’s secure intake and referenced in Jira, not stored in Jira.
 
@@ -48,3 +49,4 @@ If you have reasonable grounds to object to a change, email **info@baton.build**
 
 ## Questions
 Contact **info@baton.build** for privacy, security, or data-protection enquiries.
+
