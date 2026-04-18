@@ -1,15 +1,14 @@
 ---
 title: "Privacy Policy"
-version: "1.0.4"
-effective_date: 2026-02-25
-last_updated: 2026-02-25
+version: "1.0.5"
+effective_date: 2026-04-18
+last_updated: 2026-04-18
 company: "Baton Software Limited (Company No. 16657849)"
 jurisdiction: "England & Wales"
 canonical_url: "https://baton.build/legal?doc=privacy"
 contact: "info@baton.build"
 document_type: privacy_policy
 ---
-
 ## 1. Introduction
 Baton Software Limited (“**Baton**”, “**we**”, “**us**”, “**our**”) provides cloud-based business software for the construction industry. We are committed to protecting the privacy and security of personal information entrusted to us. This Privacy Policy explains what data we collect, how we use it, and your rights under the UK GDPR and the Data Protection Act 2018.
 
@@ -31,9 +30,10 @@ Depending on how you use Baton, we may process:
 - Identification details (name, job title, contact information)  
 - Worker qualifications and certifications (as provided by client organisations)  
 - National Insurance and other tax-related details (for wage-related calculations requested by clients)  
-- Login/authentication events and access logs (credential management handled by Azure; see Section 7)  
+- Login/authentication events and access logs (credential management handled by Azure; see Section 8)  
 - Employment/project information entered by client organisations  
 - Technical data (browser, device, IP address, usage logs, diagnostics)
+- Website analytics data (pages viewed, referrer, approximate location, session data) collected via **cookies** where you have given consent — see Section 6 (Cookies & Similar Technologies)
 
 Data is typically provided by **client organisations** who authorise and manage access for their workers, or generated through your use of the Service (e.g., logs).
 
@@ -53,37 +53,55 @@ We use personal data to:
 - Meet legal and regulatory obligations (e.g., security, fraud prevention)  
 - Improve the platform, including quality, reliability, and user experience
 
-**Legal bases:** contractual necessity, legitimate interests (e.g., service security/improvement), legal obligations, and consent where required for optional uses. When we act as **processor**, the client sets the legal basis.
+**Legal bases:** contractual necessity, legitimate interests (e.g., service security/improvement), legal obligations, and **consent** (including for analytics cookies on our website — see Section 6). When we act as **processor**, the client sets the legal basis.
 
-## 6. Data sharing
+## 6. Cookies & Similar Technologies
+
+We use a small number of cookies and similar technologies on **baton.build**:
+
+**Strictly necessary**
+
+- `cookie-consent` (stored in your browser's localStorage) — records your cookie choice so we don't re-prompt on every page. Contains no personal data. Set only when you interact with the banner.
+
+**Analytics (consent required)**
+
+- Google Analytics 4 cookies (`_ga`, `_ga_<property-id>`) — help us measure aggregate traffic, popular pages, and referral sources so we can improve the Service. IP addresses are anonymised (`anonymize_ip`). Provided by **Google Ireland Limited**; data may be transferred to the United States under Google's Standard Contractual Clauses. Retention: up to 2 years from last activity.
+
+**Your choice.** Analytics cookies load **only** after you click **Accept** on our cookie banner. You can change your mind at any time via the **Cookie Settings** link in the footer of every page. Declining analytics does not affect site functionality.
+
+**Legal basis.** Strictly necessary: **legitimate interests**. Analytics: **consent** (UK GDPR Art. 6(1)(a); PECR regulation 6).
+
+---
+
+## 7. Data sharing
 We share personal data only with:
 - The relevant **client organisation** (your employer or the company that granted your access)  
-- Our vetted **service providers** acting on our behalf under data-processing terms (see Section 8)  
+- Our vetted **service providers** acting on our behalf under data-processing terms, including **website analytics providers** (see Section 9 — Sub-processors)  
 - Authorities or third parties where required by law or to protect rights, safety, or security
 
 We do **not** sell personal data.
 
 
-## 7. How and where your data is stored
+## 8. How and where your data is stored
 - **MongoDB Atlas (UK/EU)** – primary application database for worker/project data (including qualifications and wage-related inputs).  
 - **Microsoft Azure (UK/EU)** – identity and authentication services; **credentials/tokens only** (no worker profile data stored in Azure identity by design).  
-- **Operational tooling** – limited admin/support tools used by Baton (processor terms in place; see Section 8).
+- **Operational tooling** – limited admin/support tools used by Baton (processor terms in place; see Section 9).
 
 All systems use encryption in transit (TLS) and at rest, role-based access controls, logging, and least-privilege access.
 
 
-## 8. Sub-processors
+## 9. Sub-processors
 We maintain a live list of our authorised sub-processors (with roles, locations, and safeguards) here:  
 **https://baton.build/legal?doc=subprocessors**
 
-That page is kept current and forms part of our Data Processing Agreement (DPA). It may include hosting/database providers, authentication services, ticketing/support platforms, and development partners used to deliver the Service.
+That page is kept current and forms part of our Data Processing Agreement (DPA). It may include hosting/database providers, authentication services, **website analytics providers** (e.g., Google Ireland Limited for Google Analytics 4), ticketing/support platforms, and development partners used to deliver the Service.
 
 
-## 9. International transfers
+## 10. International transfers
 Where personal data is accessed from or transferred to countries outside the UK/EEA, we implement appropriate safeguards—such as the **UK International Data Transfer Addendum** and/or **EU Standard Contractual Clauses (SCCs)**—and supplementary measures. Support or engineering personnel may remotely access data solely as necessary to provide the Service and subject to these safeguards.
 
 
-## 10. Security
+## 11. Security
 We operate an information-security programme including:
 - Encryption at rest and in transit  
 - Role-based access, MFA for admin, and periodic access reviews  
@@ -94,11 +112,11 @@ We operate an information-security programme including:
 No system is perfectly secure, but we work hard to protect your data from unauthorised access, loss, or misuse.
 
 
-## 11. Data retention
+## 12. Data retention
 We retain personal data only as long as necessary for the purposes above, to comply with law, or to resolve disputes. When data is no longer needed, we delete or anonymise it. For client data where we are **processor**, retention follows the client’s instructions and our DPA (including post-termination export/deletion windows).
 
 
-## 12. Your rights
+## 13. Your rights
 Subject to UK GDPR, you may have rights to:
 - Access a copy of your personal data  
 - Rectify inaccurate or incomplete data  
@@ -112,10 +130,10 @@ Subject to UK GDPR, you may have rights to:
 We may need to verify your identity before acting on a request.
 
 
-## 13. Complaints
+## 14. Complaints
 You can contact us at **privacy@baton.build**. You also have the right to complain to the **Information Commissioner’s Office (ICO)**: https://www.ico.org.uk.
 
 
-## 14. Changes to this policy
+## 15. Changes to this policy
 We may update this Privacy Policy from time to time. We will post updates here with a new “Last updated” date, and we may notify administrators or users for significant changes.
 
