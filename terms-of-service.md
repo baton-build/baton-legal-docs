@@ -1,8 +1,8 @@
 ---
 title: "Terms of Service"
-version: "1.0.2"
-effective_date: 2026-02-25
-last_updated: 2026-02-25
+version: "1.0.3"
+effective_date: 2026-10-08
+last_updated: 2026-10-08
 company: "Baton Software Limited (Company No. 16657849)"
 jurisdiction: "England & Wales"
 canonical_url: "https://baton.build/legal?doc=terms"
@@ -178,7 +178,7 @@ Where suspension arises due to non-payment of Fees, any specifically agreed pric
 ## 14. Term & Termination
 **14.1 Term.** This Agreement starts on the Effective Date and continues for the Subscription Term specified in the Order. 
 
-(a) Fixed or Minimum Commitment Terms. Where an Order specifies a fixed multi-year or minimum committed term (a “Fixed Term”), the subscription is non-cancellable by Client for convenience during that Fixed Term. All Fees for the Fixed Term are fully committed and non-refundable. If Client terminates or attempts to terminate early other than under Clause 14.2, the Agreement shall continue for the remainder of the Fixed Term for billing purposes and all remaining Fees shall remain due and payable in accordance with the agreed billing schedule. Suspension or non-use of the Service does not relieve Client of its payment obligations. Fixed Terms will automatically renew for successive periods of the same duration unless either Party gives written notice of non-renewal at least 30 days before the end of the then-current term (unless otherwise stated in the Order).
+(a) Fixed or Minimum Commitment Terms. Where an Order specifies a fixed multi-year or minimum committed term (a “Fixed Term”), the subscription is non-cancellable by Client for convenience during that Fixed Term. All Fees for the Fixed Term are fully committed and non-refundable. If Client gives notice of cancellation or terminates or attempts to terminate early other than under Clause 14.2,the Agreement shall end on the last day of the then-current Fixed Term and all Fees for the remainder of that Fixed Term shall become immediately due and payable and may be collected using the agreed payment method. Suspension or non-use of the Service does not relieve Client of its payment obligations. Fixed Terms will automatically renew for successive periods of the same duration unless either Party gives written notice of non-renewal at least 30 days before the end of the then-current term (unless otherwise stated in the Order).
 
 (b) Rolling Monthly Subscriptions. Where the subscription is billed monthly on a rolling basis, either Party may terminate on not less than 30 days’ written notice. Where notice is given part-way through a calendar month, the subscription shall continue until the end of the following full calendar month and Fees shall remain payable up to that date.
 
